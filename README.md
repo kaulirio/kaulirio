@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Just started my masters in Data Analytics. Let's surf data waves!
+
 <!--
 **kaulirio/kaulirio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
